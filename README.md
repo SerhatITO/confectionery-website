@@ -3,7 +3,7 @@
 Profesyonel, modern ve mobil uyumlu web sitesi. Ankara'da hayır lokması dağıtımı ve geleneksel tatlı hizmetleri.
 
 ## 🌐 Canlı Demo
-**[https:](https://sasmaztatlicisi.info)**
+**[https://sasmaztatlicisi.info](https://sasmaztatlicisi.info)**
 
 ## 📋 Özellikler
 
