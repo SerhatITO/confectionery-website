@@ -3,7 +3,7 @@
 Profesyonel, modern ve mobil uyumlu web sitesi. Ankara'da hayır lokması dağıtımı ve geleneksel tatlı hizmetleri.
 
 ## 🌐 Canlı Demo
-**[https://serhatito.github.io/confectionery-website/](https://serhatito.github.io/confectionery-website/)**
+**[https:](https://sasmaztatlicisi.info/)**
 
 ## 📋 Özellikler
 
