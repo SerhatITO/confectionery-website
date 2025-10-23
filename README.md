@@ -39,7 +39,7 @@ git clone https://github.com/SerhatITO/confectionery-website.git
 cd confectionery-website
 
 # index.html dosyasını tarayıcıda aç
-
+```
 Meta description ve title optimize
 
 Schema.org structured data
